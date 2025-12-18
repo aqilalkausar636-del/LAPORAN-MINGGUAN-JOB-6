@@ -1,27 +1,38 @@
 # LAPORAN-MINGGUAN-JOB-6
 Nama: Muhammad Aqil Alkausar
+
 NPM: 2410017514012
+
 Prodi: TRKJ 
+
 Mata kuliah: Basic Analog Electronic
 
 1. Tujuan Pratikum
+   
    Tujuan dari pratikum ini adalah untuk:
+   
 •	Untuk mengetahui cara kerja seven Segment
+
 •	Untuk mengetahui cara kerja arduino dengan seven segment
+
 •	Untuk menguji keterkiriman source code pada board arduino dan seven segment.
-2. Teori
+
+3. Teori
+
 Seven Segment Display (7 Segment Display) dalam bahasa Indonesia disebut dengan Layar Tujuh Segmen adalah komponen Elektronika yang dapat menampilkan angka desimal melalui kombinasi-kombinasi segmennya. Seven Segment Display pada umumnya dipakai pada Jam Digital, Kalkulator, Penghitung atau Counter Digital, Multimeter Digital dan juga Panel Display Digital seperti pada Microwave Oven ataupun Pengatur Suhu Digital . Seven Segment Display pertama diperkenalkan dan dipatenkan pada tahun 1908 oleh Frank. W. Wood dan mulai dikenal luas pada tahun 1970-an setelah aplikasinya pada LED (Light Emitting Diode).
+
 Terdapat 2 Jenis LED 7 Segmen, diantaranya adalah “LED 7 Segmen common Cathode” dan “LED 7 Segmen common Anode”.
 1.	LED 7 Segmen Tipe Common Cathode (Katoda)
 Pada LED 7 Segmen jenis Common Cathode (Katoda), Kaki Katoda pada semua segmen LED adalah terhubung menjadi 1 Pin, sedangkan Kaki Anoda akan menjadi Input untuk masing-masing Segmen LED.  Kaki Katoda yang terhubung menjadi 1 Pin ini merupakan Terminal Negatif (-) atau Ground sedangkan Signal Kendali (Control Signal) akan diberikan kepada masing-masing Kaki Anoda Segmen LED.
-Pada LED 7 Segmen jenis Common Anode (Anoda), Kaki Anoda pada semua segmen LED adalah terhubung menjadi 1 Pin, sedangkan kaki Katoda akan menjadi Input untuk masing-masing Segmen LED. Kaki Anoda yang terhubung menjadi 1 Pin ini akan diberikan Tegangan Positif (+) dan Signal Kendali (control signal) akan diberikan kepada masing-masing Kaki Katoda Segmen LED.
+
+ 2. Pada LED 7 Segmen jenis Common Anode (Anoda), Kaki Anoda pada semua segmen LED adalah terhubung menjadi 1 Pin, sedangkan kaki Katoda akan menjadi Input untuk masing-masing Segmen LED. Kaki Anoda yang terhubung menjadi 1 Pin ini akan diberikan Tegangan Positif (+) dan Signal Kendali (control signal) akan diberikan kepada masing-masing Kaki Katoda Segmen LED.
 3.	Peralatan
-1.	Laptop
-2.	Board Arduino
-3.	Konektor USB
-4.	Breadboard
-5.	Seven Segment
-6.	Jumper wires
+   1.	Laptop
+   2.	Board Arduino
+   3.	Konektor USB
+   4.	Breadboard
+   5.	Seven Segment
+   6.	Jumper wires
 4.	Rangkaian Praktikum 
 Praktikum dilaksanakan dengan  rangkaian sebagai berikut :
 <img width="585" height="435" alt="image" src="https://github.com/user-attachments/assets/3845c88f-494d-48ab-b1fe-76e1c2022013" />
